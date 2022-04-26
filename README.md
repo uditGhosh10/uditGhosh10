@@ -1,9 +1,14 @@
 Hi 👋 My name is Udit Ghosh
 ===========================
-Software Devveloper and AI Enthusiast
+Software Developer and AI Enthusiast
 -------------------------------------
 
-I'm a graduate student in Computer Science at UNC Charlotte. I like exploring newer technologies, and develop applications to find meaningful impact.* 🌍  I'm based in Charlotte, NC* ✉️  You can contact me at [ughosh1@uncc.edu](mailto:ughosh1@uncc.edu)* 🧠  I'm learning React* 🤝  I'm open to collaborating on Data Science projects* ⚡  I'm a die-hard CSGO fanatic
+I'm a graduate student in Computer Science at UNC Charlotte. I like exploring newer technologies, and develop applications to find meaningful impact.
+*  🌍  I'm based in Charlotte, NC
+*  ✉️  You can contact me at [ughosh1@uncc.edu](mailto:ughosh1@uncc.edu)
+*  🧠  I'm learning React
+*  🤝  I'm open to collaborating on Data Science projects
+*  ⚡  I'm a die-hard CSGO fanatic
 
 ## Skills
 
