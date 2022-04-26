@@ -1,6 +1,6 @@
 Hi 👋 My name is Udit Ghosh
 ===========================
-Software Developer and AI Enthusiast
+Software Development | Machine Learrning | Deep Learning | Computer Vision 
 -------------------------------------
 
 I'm a graduate student in Computer Science at UNC Charlotte. I like exploring newer technologies, and develop applications to find meaningful impact.
